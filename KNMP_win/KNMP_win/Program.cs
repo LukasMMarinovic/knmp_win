@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Media;
+using System.Runtime.InteropServices;
 
 ///////////////////////////////////////////////
 //                                           //
@@ -34,7 +35,7 @@ namespace KNMP_win
         {
 
 
-            Console.WriteLine("//");
+            
 
             //Implement search for "meow.wav" file
             var Player = new System.Media.SoundPlayer();
