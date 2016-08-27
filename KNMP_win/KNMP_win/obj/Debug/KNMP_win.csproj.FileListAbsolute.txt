@@ -1,6 +1,6 @@
-D:\Programs\knmp_win\KNMP_win\KNMP_win\bin\Debug\KNMP_win.exe.config
-D:\Programs\knmp_win\KNMP_win\KNMP_win\bin\Debug\KNMP_win.exe
-D:\Programs\knmp_win\KNMP_win\KNMP_win\bin\Debug\KNMP_win.pdb
 D:\Programs\knmp_win\KNMP_win\KNMP_win\obj\Debug\KNMP_win.csprojResolveAssemblyReference.cache
-D:\Programs\knmp_win\KNMP_win\KNMP_win\obj\Debug\KNMP_win.exe
-D:\Programs\knmp_win\KNMP_win\KNMP_win\obj\Debug\KNMP_win.pdb
+D:\Programs\knmp_win\KNMP_win\KNMP_win\bin\Debug\vKNMP_win.exe.config
+D:\Programs\knmp_win\KNMP_win\KNMP_win\bin\Debug\vKNMP_win.exe
+D:\Programs\knmp_win\KNMP_win\KNMP_win\bin\Debug\vKNMP_win.pdb
+D:\Programs\knmp_win\KNMP_win\KNMP_win\obj\Debug\vKNMP_win.exe
+D:\Programs\knmp_win\KNMP_win\KNMP_win\obj\Debug\vKNMP_win.pdb

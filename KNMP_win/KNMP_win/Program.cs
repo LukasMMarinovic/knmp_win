@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.Media;
 using System.Runtime.InteropServices;
 
+
+
 ///////////////////////////////////////////////
 //                                           //
 //    	            |\___|\                  //
@@ -34,13 +36,24 @@ namespace KNMP_win
         static void Main(string[] args)
         {
 
+            int randomSeconds = 0;
 
-            
+            for (int Loops = 0; Loops <= 10; Loops++)
+            {
+                //generates a random integer between 1000 and 5000
+                //this determines the length of time between each sound
+                Random rnd = new Random();
+                randomSeconds = rnd.Next(1000, 5000);
+                
 
-            //Implement search for "meow.wav" file
-            var Player = new System.Media.SoundPlayer();
-            Player.SoundLocation = @"D:\Programs\knmp_win\meow.wav";
-            Player.PlaySync();
+                //pause for "randomSeconds" seconds
+                System.Threading.Thread.Sleep(randomSeconds);
+
+                //play sound
+                var Player = new System.Media.SoundPlayer();
+                Player.SoundLocation = @"D:\Programs\knmp_win\meow.wav";
+                Player.PlaySync();
+            }
         }
     }
 }
