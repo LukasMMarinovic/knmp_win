@@ -1,2 +1,37 @@
-# knmp_win
+# KNMP_win
+---
 I think you need to call the exterminator. There's a kitty in your computer...
+---
+## What is *KNMP_win*?
+KNMP, or kitty noise media player for windows, is a harmless and funny program which plays a super irritating cat noise in the background in a hidden media player. 
+
+## Is that it?
+No, of course not! the program also:
+
+- loops the noise at an hourly rate (and no, not exactly an hour, the time constantly changes to reduce predictability)
+- auto-runs off of a USB flash drive
+- adjusts the computer's volume right before playing the noise and resets it afterwards
+- is easy, but not too straightforward to stop
+- annoys people
+- doesn't harm any computers (unless your computer has some serious issues)
+
+
+##How do I run *KNMP_win*?
+I will post a link on my blog soon withdetailed instructions.
+
+[link placeholder]
+
+## *KNMP_win* won't run on my MAC. What am i doing wrong?
+Purchasing a computer that doesn't support my software. Shame on you!
+
+## *KNMP_win* won't run on my Linux machine. What am i doing wrong?
+You are trying to run a program that is clearly labled "for Windows" on a non-Windows pc.
+
+## *KNMP_win* won't run on my Windows machine. What am i doing wrong?
+Report it in the issues and I will try to get back to you as soon as possible.
+
+## I have an awesome idea for *KNMP_win*.
+Post it in the issues section and I will check it out!
+
+ 
+  
