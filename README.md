@@ -18,18 +18,18 @@ No, of course not! the program also:
 
 
 ##How do I run *KNMP_win*?
-I will post a link on my blog soon withdetailed instructions.
+I will post a link on my blog soon with detailed instructions.
 
 [link placeholder]
 
 ##*KNMP_win* has't been updated in ___ days. What's up with that?
-It could be a number of things. Maybe I was working on a differet project, or maybe i've just had a busy week (yes, I go to school). Stay posted to my blog (http://scratchabear.blogspot.com/) for updates, and please note that I try to push an update at least once a week!
+It could be a number of things. Maybe I was working on a different project, or maybe i've just had a busy week (yes, I go to school). Stay posted to my blog (http://scratchabear.blogspot.com/) for updates, and please note that I try to push an update at least once a week!
 
 ## *KNMP_win* won't run on my MAC. What am i doing wrong?
 Purchasing a computer that doesn't support my software. Shame on you!
 
 ## *KNMP_win* won't run on my Linux machine. What am i doing wrong?
-You are trying to run a program that is clearly labled "for Windows" on a non-Windows pc.
+You are trying to run a program that is clearly labled "for Windows" on a non-Windows PC.
 
 ## *KNMP_win* won't run on my Windows machine. What am i doing wrong?
 Report it in the issues and I will try to get back to you as soon as possible.
@@ -38,5 +38,5 @@ Report it in the issues and I will try to get back to you as soon as possible.
 Post it in the issues section and I will check it out!
 
 ## *KNMP_win* got me it trouble...
-Honestly, I can't help you there, sorry. Using my program for at the wrong time and/or place is 100% your fault, and I will take no responsibility.  
+Honestly, I can't help you there, sorry. Using my program at the wrong time and/or place is 100% your fault, and I will take no responsibility.  
   
