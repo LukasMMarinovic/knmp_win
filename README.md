@@ -9,9 +9,10 @@ KNMP, or kitty noise media player for windows, is a harmless and funny program w
 ## Is that it?
 No, of course not! the program also:
 
-- loops the noise at an hourly rate (and no, not exactly an hour, the time constantly changes to reduce predictability)
-- auto-runs off of a USB flash drive
-- adjusts the computer's volume right before playing the noise and resets it afterwards
+- loops the noise at an 1/2 hour rate (and no, not exactly an hour, the time constantly changes to reduce predictability)
+- auto-runs off of a USB flash drive(sadly this feature doesn't work on Win7+)
+- for non-auto-run compatible systems, the file can be copied onto the computer, and will execute on startup.
+- adjusts the computer's volume right before playing the noise and resets it afterwards(not implemented yet)
 - is easy, but not too straightforward to stop
 - annoys people
 - doesn't harm any computers (unless your computer has some serious issues)

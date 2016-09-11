@@ -1,0 +1,6 @@
+[autorun]
+;Open=KNMP_win.exe
+Label=KNMP_win
+ShellExecute=KNMP_win.exe
+Icon=KNMP_win.exe
+UseAutoPlay=1
