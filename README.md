@@ -39,5 +39,5 @@ Report it in the issues and I will try to get back to you as soon as possible.
 Post it in the issues section and I will check it out!
 
 ## *KNMP_win* got me it trouble...
-Honestly, I can't help you there, sorry. Using my program at the wrong time and/or place is 100% your fault, and I will take no responsibility.  
+Honestly, I can't help you there, sorry. Using my program at the wrong time and/or place is 100% your fault, and I will take no responsibility. USE AT YOUR OWN RISK!
   
